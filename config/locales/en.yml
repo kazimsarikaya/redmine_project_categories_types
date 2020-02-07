@@ -1,3 +1,4 @@
 # English strings go here for Rails i18n
 en:
-  # my_label: "My label"
+  label_custom_enumeration_project_category: "Project Categories"
+  label_custom_enumeration_project_type: "Project Types"

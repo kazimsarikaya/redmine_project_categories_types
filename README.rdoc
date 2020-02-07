@@ -1,3 +1,0 @@
-= customfield_enumeration
-
-Description goes here
